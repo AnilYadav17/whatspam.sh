@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MESSAGE="TATTI"   # Message to be sent
+MESSAGE="Your Message"   # Message to be sent
 COUNT=10000        # Number of times to send the message
 
 for i in $(seq 1 $COUNT); do
