@@ -1,0 +1,1 @@
+# whatspam.sh
